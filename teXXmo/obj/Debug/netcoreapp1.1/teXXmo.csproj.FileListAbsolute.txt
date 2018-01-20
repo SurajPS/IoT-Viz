@@ -1,0 +1,10 @@
+/Users/surajps/Projects/teXXmo/teXXmo/bin/Debug/netcoreapp1.1/teXXmo.deps.json
+/Users/surajps/Projects/teXXmo/teXXmo/bin/Debug/netcoreapp1.1/teXXmo.runtimeconfig.json
+/Users/surajps/Projects/teXXmo/teXXmo/bin/Debug/netcoreapp1.1/teXXmo.runtimeconfig.dev.json
+/Users/surajps/Projects/teXXmo/teXXmo/bin/Debug/netcoreapp1.1/teXXmo.dll
+/Users/surajps/Projects/teXXmo/teXXmo/bin/Debug/netcoreapp1.1/teXXmo.pdb
+/Users/surajps/Projects/teXXmo/teXXmo/obj/Debug/netcoreapp1.1/teXXmo.csprojResolveAssemblyReference.cache
+/Users/surajps/Projects/teXXmo/teXXmo/obj/Debug/netcoreapp1.1/teXXmo.csproj.CoreCompileInputs.cache
+/Users/surajps/Projects/teXXmo/teXXmo/obj/Debug/netcoreapp1.1/teXXmo.AssemblyInfo.cs
+/Users/surajps/Projects/teXXmo/teXXmo/obj/Debug/netcoreapp1.1/teXXmo.dll
+/Users/surajps/Projects/teXXmo/teXXmo/obj/Debug/netcoreapp1.1/teXXmo.pdb

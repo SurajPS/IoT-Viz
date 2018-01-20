@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{ED25427C-FA09-4E66-9D78-673D70739349}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="teXXmo/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="teXXmo/Views/Home/Index.cshtml" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.teXXmo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
