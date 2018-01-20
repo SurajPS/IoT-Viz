@@ -1,7 +1,10 @@
 ﻿<Properties StartupConfiguration="{ED25427C-FA09-4E66-9D78-673D70739349}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="teXXmo/Views/Home/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="teXXmo/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="teXXmo/Views/Home/Index.cshtml" Line="8" Column="1" />
+      <File FileName="teXXmo/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="teXXmo/Views/Home/Sensor.cshtml" Line="1" Column="1" />
+      <File FileName="teXXmo/Program.cs" Line="1" Column="1" />
+      <File FileName="teXXmo/Views/Shared/_Layout.cshtml" Line="34" Column="95" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
