@@ -1,0 +1,10 @@
+C:\Users\HMI-Stud\Source\Repos\IoT-Viz\teXXmo\bin\Release\netcoreapp1.1\teXXmo.deps.json
+C:\Users\HMI-Stud\Source\Repos\IoT-Viz\teXXmo\bin\Release\netcoreapp1.1\teXXmo.runtimeconfig.json
+C:\Users\HMI-Stud\Source\Repos\IoT-Viz\teXXmo\bin\Release\netcoreapp1.1\teXXmo.runtimeconfig.dev.json
+C:\Users\HMI-Stud\Source\Repos\IoT-Viz\teXXmo\bin\Release\netcoreapp1.1\teXXmo.dll
+C:\Users\HMI-Stud\Source\Repos\IoT-Viz\teXXmo\bin\Release\netcoreapp1.1\teXXmo.pdb
+C:\Users\HMI-Stud\Source\Repos\IoT-Viz\teXXmo\obj\Release\netcoreapp1.1\teXXmo.csproj.CoreCompileInputs.cache
+C:\Users\HMI-Stud\Source\Repos\IoT-Viz\teXXmo\obj\Release\netcoreapp1.1\teXXmo.AssemblyInfoInputs.cache
+C:\Users\HMI-Stud\Source\Repos\IoT-Viz\teXXmo\obj\Release\netcoreapp1.1\teXXmo.AssemblyInfo.cs
+C:\Users\HMI-Stud\Source\Repos\IoT-Viz\teXXmo\obj\Release\netcoreapp1.1\teXXmo.dll
+C:\Users\HMI-Stud\Source\Repos\IoT-Viz\teXXmo\obj\Release\netcoreapp1.1\teXXmo.pdb

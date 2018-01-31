@@ -7,4 +7,8 @@
     </EnvironmentVariables>
     <ApplicationURL>http://localhost:54251</ApplicationURL>
   </PropertyGroup>
+  <PropertyGroup>
+    <ActiveDebugProfile>IIS Express</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>teXXmo1 - Web Deploy</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
 </Project>
